@@ -1,2 +1,2 @@
-# coffeeshop_project
+# coffeeshop-project
 A Coffee Shop website using Angular
