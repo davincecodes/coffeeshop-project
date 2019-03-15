@@ -11,11 +11,15 @@ const routes: Routes = [
     component: HomeComponent
   },
   {
-    path: '/about',
+    path: 'home',
+    component: HomeComponent
+  },
+  {
+    path: 'about',
     component: AboutComponent
   },
   {
-    path: '/menu',
+    path: 'menu',
     component: MenuComponent
   },
   {
